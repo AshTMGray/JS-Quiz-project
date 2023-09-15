@@ -243,3 +243,4 @@ const checkAnswer = (guess) => {
   }
   startQuiz();
 };
+ 
